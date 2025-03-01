@@ -1,0 +1,11 @@
+[
+    "Can you explain {prompt} in simple terms?",
+    "How does {prompt} impact our daily lives?",
+    "What are the benefits and drawbacks of {prompt}?",
+    "Can you provide an example of {prompt} in action?",
+    "How does {prompt} relate to {context}?",
+    "What are the latest developments in {prompt} research?",
+    "Can you compare and contrast {prompt} with {field}?",
+    "How can {prompt} be used to improve {context}?",
+    "What are the potential risks and challenges associated with {prompt}?"
+]
