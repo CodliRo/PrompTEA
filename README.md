@@ -187,6 +187,6 @@ Here is a roadmap of the planned features and improvements for PrompTEA:
 ### Q: Can I integrate PrompTEA into my existing NLP pipeline?
 **A**: Absolutely! PrompTEA provides a simple and intuitive API, making it easy to integrate into your existing workflows.
 
-© 2025 Codliro. All Rights Reserved.
+**© 2025 Codliro. All Rights Reserved.**
 This software is provided under the MIT License Agreement. Unauthorized use, duplication, or distribution is prohibited.
 
