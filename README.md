@@ -1,4 +1,4 @@
-# PrompTEA: A Prompt Optimization Framework for Language Models
+# PrompTEA: A Prompt Optimization Framework for Language Models (v1.1.2)
 
 ## Overview
 
